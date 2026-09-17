@@ -1,0 +1,19 @@
+Loading model...
+DEBUG: Model path: C:\Users\ems\Documents\New project\crop_model.pkl
+DEBUG: Model file exists: True
+Model loaded from crop_model.pkl
+DEBUG: Model loaded with 29 features
+DEBUG: Expected feature count: 29
+DEBUG: Scaler expects 29 features
+DEBUG: Created engine with model id: 2705554187200
+
+Starting Flask API server...
+API endpoints:
+  GET  /health          - Health check
+  POST /predict         - Make a single prediction
+  POST /predict-batch   - Make batch predictions
+  GET  /model-info      - Get model information
+
+Server running at http://localhost:5000
+ * Serving Flask app 'api_server'
+ * Debug mode: off

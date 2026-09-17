@@ -1,0 +1,142 @@
+[
+    {
+        "soil": {
+            "nitrogen": 150,
+            "phosphorus": 70,
+            "potassium": 80,
+            "ph": 6.5,
+            "moisture": 35,
+            "soil_type": "loamy",
+            "organic_carbon": 1.2,
+            "electrical_conductivity": 0.8,
+            "dap": 40,
+            "urea": 100,
+            "ssp": 30,
+            "mop": 40,
+            "zinc": 3.0,
+            "iron": 25,
+            "copper": 1.5,
+            "boron": 1.0,
+            "manganese": 12
+        },
+        "weather": {
+            "temperature": 25,
+            "humidity": 70,
+            "rainfall": 120
+        },
+        "region": "north_india",
+        "location_name": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "country_code": "IN",
+        "farm_size": 5.0,
+        "land_area_unit": "hectares",
+        "latitude": 30.9009,
+        "longitude": 75.8573
+    },
+    {
+        "soil": {
+            "nitrogen": 120,
+            "phosphorus": 50,
+            "potassium": 100,
+            "ph": 6.0,
+            "moisture": 40,
+            "soil_type": "clay",
+            "organic_carbon": 1.4,
+            "electrical_conductivity": 0.7,
+            "dap": 35,
+            "urea": 85,
+            "ssp": 28,
+            "mop": 36,
+            "zinc": 2.8,
+            "iron": 22,
+            "copper": 1.2,
+            "boron": 0.9,
+            "manganese": 10
+        },
+        "weather": {
+            "temperature": 28,
+            "humidity": 80,
+            "rainfall": 150
+        },
+        "region": "south_india",
+        "location_name": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "country_code": "IN",
+        "farm_size": 4.2,
+        "land_area_unit": "hectares",
+        "latitude": 11.0168,
+        "longitude": 76.9558
+    },
+    {
+        "soil": {
+            "nitrogen": 100,
+            "phosphorus": 60,
+            "potassium": 90,
+            "ph": 6.8,
+            "moisture": 25,
+            "soil_type": "sandy",
+            "organic_carbon": 0.9,
+            "electrical_conductivity": 0.4,
+            "dap": 25,
+            "urea": 70,
+            "ssp": 20,
+            "mop": 22,
+            "zinc": 1.8,
+            "iron": 14,
+            "copper": 0.7,
+            "boron": 0.4,
+            "manganese": 7
+        },
+        "weather": {
+            "temperature": 20,
+            "humidity": 65,
+            "rainfall": 80
+        },
+        "region": "western",
+        "location_name": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "country_code": "IN",
+        "farm_size": 6.5,
+        "land_area_unit": "hectares",
+        "latitude": 26.9124,
+        "longitude": 75.7873
+    },
+    {
+        "soil": {
+            "nitrogen": 180,
+            "phosphorus": 80,
+            "potassium": 120,
+            "ph": 6.5,
+            "moisture": 42,
+            "soil_type": "loamy",
+            "organic_carbon": 1.6,
+            "electrical_conductivity": 0.9,
+            "dap": 45,
+            "urea": 110,
+            "ssp": 34,
+            "mop": 48,
+            "zinc": 3.2,
+            "iron": 27,
+            "copper": 1.6,
+            "boron": 1.1,
+            "manganese": 13
+        },
+        "weather": {
+            "temperature": 22,
+            "humidity": 75,
+            "rainfall": 100
+        },
+        "region": "eastern",
+        "location_name": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "country_code": "IN",
+        "farm_size": 3.8,
+        "land_area_unit": "hectares",
+        "latitude": 22.5726,
+        "longitude": 88.3639
+    }
+]
