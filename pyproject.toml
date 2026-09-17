@@ -1,2 +1,6 @@
+[project]
+name = "agripredict-x"
+version = "0.1.0"
+
 [tool.vercel]
-entrypoint = "api_server_enhanced:app"
+entrypoint = "api_server:app"
